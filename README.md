@@ -9,5 +9,5 @@ Some explorations I'd like to make before I abandon this notebook:
 [View the notebook here](http://nbviewer.ipython.org/github/c-trl/us-gas-prices-vs-retail-sales/blob/master/Gas%20Prices%20vs.%20Retail%20Sales.ipynb)
 
 
-![here](https://www.facebook.com/photo.php?fbid=652721498809&l=b0c960c0e9)
+![here](https://scontent-b-lga.xx.fbcdn.net/hphotos-xaf1/v/t1.0-9/1930979_652721498809_9263_n.jpg?oh=8cf587deef33a0acdf6bfc486785ce74&oe=55361B4A)
 <small>Last updated: 1/14/15</small>
