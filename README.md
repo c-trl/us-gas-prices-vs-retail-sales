@@ -7,3 +7,5 @@ Some explorations I'd like to make before I abandon this notebook:
   - Explore other variables relative to changes in gas prices, such as utility prices, ecommerce industry performance, and savings habits among consumers.
 
 [View the notebook here](http://nbviewer.ipython.org/github/c-trl/us-gas-prices-vs-retail-sales/blob/master/Gas%20Prices%20vs.%20Retail%20Sales.ipynb)
+
+Last updated: 1/15/15
